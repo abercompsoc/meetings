@@ -93,7 +93,8 @@ Item 6 - Events:
   Pi
 - Make/Attend Hackathons. The National Library of Wales hold Hackathons
   semi-regularly
-- Programming Challenges like the recent UKIEPC national programming challenge in which the department took part
+- Programming Challenges like the recent UKIEPC national programming challenge
+  in which the department took part
 
 Possibility to list all meetings via an account on meetups.com
 
@@ -183,17 +184,25 @@ None raised
 Actions:
 --------
 
-- Committee - Speak to Dave Price(dap) to discuss a possible link to the radio club
-- Committee - Speak to Daniel Clark(dac46), Louis Taylor(lot15) and Colin Sauze(cos) to discuss a possible link to AberSailbot - Organise a meeting
-- Committee - Speak to Daniel Clark(dac46) and Colin Sauze(cos) to discuss a possible link to AberLab, the Aberystywth Hackerspace
-- Committee - Speak to Richard Shipman(rcs) to discuss the potential trip to FOSDEM
-- Committee - Speak to Sam Nichols(msn) to discuss the UKIEPC and any other future programming challenges he is planning to be involved in
-- Committee - Speak to the National Library of Wales to discuss potential Hackathons
+- Committee - Speak to Dave Price(dap) to discuss a possible link to the radio
+  club
+- Committee - Speak to Daniel Clark(dac46), Louis Taylor(lot15) and Colin
+  Sauze(cos) to discuss a possible link to AberSailbot - Organise a meeting
+- Committee - Speak to Daniel Clark(dac46) and Colin Sauze(cos) to discuss a
+  possible link to AberLab, the Aberystywth Hackerspace
+- Committee - Speak to Richard Shipman(rcs) to discuss the potential trip to
+  FOSDEM
+- Committee - Speak to Sam Nichols(msn) to discuss the UKIEPC and any other
+  future programming challenges he is planning to be involved in
+- Committee - Speak to the National Library of Wales to discuss potential
+  Hackathons
 - Committee - Organise a stand for the Re-Freshers fair
 - Committee - Organise a committee meeting for Friday November 6th at 6:15pm
 
-- nid16 - Book meeting room in Brynamlwg for Friday November 6th at 6pm (Committee Meeting)
-- nid16 - Book meeting room in Brynamlwg for Friday November 27th at 6pm (Group Meeting)
+- nid16 - Book meeting room in Brynamlwg for Friday November 6th at 6pm
+  (Committee Meeting)
+- nid16 - Book meeting room in Brynamlwg for Friday November 27th at 6pm (Group
+  Meeting)
 
 - thm17 - Check with heh14 regarding the Student Union's Society web page:
 
@@ -202,19 +211,28 @@ Actions:
   - What do they need to pay for?
   - Etc
 
-- thm17 and ndr2 - Organise control of the mailing list, who can send to it, who does it send to, etc
-- thm17 and ndr2 - Can we rename the mailing list to something shorter? If not, just create a new one
+- thm17 and ndr2 - Organise control of the mailing list, who can send to it,
+  who does it send to, etc
+- thm17 and ndr2 - Can we rename the mailing list to something shorter? If not,
+  just create a new one
 
 - ndr2 - Add all attendees plus heh14 to the mailing list
-- ndr2 - Create a new mailing list for committee members and all current committee members
-- ndr2 - Publicise the 2nd meeting for Friday November 27th at 6:15pm in Brynamlwg
-- ndr2 - Publicise the first committee meeting to be held Friday November 6th at 6:15pm in Brynamlwg
+- ndr2 - Create a new mailing list for committee members and all current
+  committee members
+- ndr2 - Publicise the 2nd meeting for Friday November 27th at 6:15pm in
+  Brynamlwg
+- ndr2 - Publicise the first committee meeting to be held Friday November 6th
+  at 6:15pm in Brynamlwg
 
 - dac46 - Create a Github organisation for the CompSciSoc
 - dac46 - Formalise the Minutes from this meeting and the Agenda for the next
-- dac46 - Create a "Meetings" Repository on Github and commit the Minutes for this meeting and the Agenda for the next
+- dac46 - Create a "Meetings" Repository on Github and commit the Minutes for
+  this meeting and the Agenda for the next
 
-- Members - Join the CompSciSoc Facebook group at: "https://www.facebook.com/groups/1583682251884620/"
-- Members - Join the Aber Comp Sci Facebook group at: "https://www.facebook.com/groups/abercs/"
-- Members - Join the mailing list by emailing ndr2 with the subject "Please add me to the CompSciSoc mailing list!"
+- Members - Join the CompSciSoc Facebook group at:
+  "https://www.facebook.com/groups/1583682251884620/"
+- Members - Join the Aber Comp Sci Facebook group at:
+  "https://www.facebook.com/groups/abercs/"
+- Members - Join the mailing list by emailing ndr2 with the subject "Please add
+  me to the CompSciSoc mailing list!"
 - Members - See heh14 for any questions about the society
