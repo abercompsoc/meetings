@@ -57,13 +57,10 @@ Note: these apparently need to go through a re-election.
 Item 3 - The Society Constitution:
 ----------------------------------
 
-What is it?
-
-Can we change it?
-
-Upload it to Github and then publicise on Facebook and the Email list that it exists and where to find it
-
-The Communications Officer must have an amateur radio licence, and it is recommended communications be broadcast from a beacon in Moscow.
+- What is it?
+- Can we change it?
+- Upload it to Github and then publicise on Facebook and the Email list that it exists and where to find it
+- The Communications Officer must have an amateur radio licence, and it is recommended communications be broadcast from a beacon in Moscow.
 
 Item 4 - Socials:
 -----------------
@@ -108,16 +105,11 @@ Should we have a stand at the Re-Freshers fair? Members agree that we should. A 
 Item 10 - Union Recognition:
 ----------------------------
 
-What is our current status regarding being a recognised Union Society?
-
-Are we "Comp Sci Soc" or "Comp Sci Society"?
-
-How do members join the society?
-
-What do they need to pay for? and how much?
-
-What, in the Unions eyes, do we need to have done to count this as an official
-meeting?
+- What is our current status regarding being a recognised Union Society?
+- Are we "Comp Sci Soc" or "Comp Sci Society"?
+- How do members join the society?
+- What do they need to pay for? and how much?
+- What, in the Unions eyes, do we need to have done to count this as an official meeting?
 
 Item 11 - Communication:
 ------------------------
