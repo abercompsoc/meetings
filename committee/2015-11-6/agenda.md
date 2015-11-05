@@ -35,6 +35,7 @@ previous meeting (Group Meeting 1, 27/10/15)
 - Add to the Agenda for the next general meeting
 - Set a date for the next committee meeting
 - Create and populate an Agenda for the next committee meeting
+- Discussion of upcoming events
 - Discussion of projects in general
 - Discussion of building up a private cloud for members to use
     - Donated hardware
