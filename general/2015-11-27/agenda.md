@@ -1,13 +1,16 @@
 Aberystwyth Computer Science Society/BSC Student Chapter
 ========================================================
 
-General Meeting 2 - 27-11-2015
+General Meeting 2 - 2015-11-27
 
 Present
 -------
 
 Apologies
 ---------
+
+Agenda
+------
 
 - Review minutes of last meeting
 - Report on actions carried out by each member, which were specified in
