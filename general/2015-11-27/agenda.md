@@ -19,3 +19,4 @@ Agenda
 -  Discuss state of communication (mailing lists / google group / irc / etc).
 -  Summary of what's been said on the google group, not all members have signed up.
 -  Summary of events held by those involved.
+- Discuss state of "Committie" members - If people are going to have a title (even just committie member) they need to be voted in in a proper by-election
