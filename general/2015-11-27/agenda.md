@@ -20,7 +20,10 @@ Agenda
     and any progress made on them
 
 - Discuss state of official documents.
-- Discuss state of communication (mailing lists / google group / irc / etc).
+- Discuss state of communication
+  - mailing lists: do we need an -announce mailing list and a committee mailing list
+  - irc: it exists and we should use it
+  - usage of facebook: events for things we organize
 - Summary of what's been said on the google group, not all members have signed up.
 - Summary of events held by those involved.
 - Discuss state of "Committee" members - If people are going to have a title (even just committie member) they need to be voted in in a proper by-election
