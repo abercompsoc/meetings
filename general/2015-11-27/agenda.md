@@ -15,6 +15,10 @@ Agenda
 - Review minutes of last meeting
 - Report on actions carried out by each member, which were specified in
   previous meeting (Group Meeting 1, 27/10/15)
+
+  - Look at each event discussed in [previous minutes](https://github.com/abercompsoc/meetings/blob/master/committee/2015-11-06/minutes.md#item-5---events)
+    and any progress made on them
+
 -  Discuss state of official documents.
 -  Discuss state of communication (mailing lists / google group / irc / etc).
 -  Summary of what's been said on the google group, not all members have signed up.
