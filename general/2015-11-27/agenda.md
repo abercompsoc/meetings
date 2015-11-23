@@ -30,3 +30,5 @@ Agenda
 - Discuss taking over the old robotics society bank account
 - Talk about progress on cloudy things
 - Abersailbot minibus usage
+
+- General discussion
