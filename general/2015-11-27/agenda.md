@@ -19,10 +19,10 @@ Agenda
   - Look at each event discussed in [previous minutes](https://github.com/abercompsoc/meetings/blob/master/committee/2015-11-06/minutes.md#item-5---events)
     and any progress made on them
 
--  Discuss state of official documents.
--  Discuss state of communication (mailing lists / google group / irc / etc).
--  Summary of what's been said on the google group, not all members have signed up.
--  Summary of events held by those involved.
+- Discuss state of official documents.
+- Discuss state of communication (mailing lists / google group / irc / etc).
+- Summary of what's been said on the google group, not all members have signed up.
+- Summary of events held by those involved.
 - Discuss state of "Committee" members - If people are going to have a title (even just committie member) they need to be voted in in a proper by-election
 - Discuss taking over the old robotics society bank account
 - Talk about progress on cloudy things
