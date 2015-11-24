@@ -20,6 +20,7 @@ Agenda
   - action to all members apparently was to email suggestions of name, see if
     that actually happened
 
+- Find out who wants to go to the Teach First pub quiz on Monday 30th at 6pm in the SU main room. Free pizza and prizes! - Costs 50p per person
 - Discuss state of official documents.
 - Discuss state of communication
   - mailing lists: do we need an -announce mailing list and a committee mailing list
