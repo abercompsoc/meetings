@@ -14,9 +14,9 @@ Agenda
 
 - Review minutes of last meeting
 - Report on actions carried out by each member, which were specified in
-  previous meeting (Group Meeting 1, 27/10/15)
-  - Look at each event discussed in [previous minutes](https://github.com/abercompsoc/meetings/blob/master/committee/2015-11-06/minutes.md#item-5---events)
-    (item 5 and 6) and any progress made on them
+  previous meetings (Group Meeting 1 - 27/10/15 and Committee Meeting 1) 
+  - Look at each events discussed in [previous committee minutes](https://github.com/abercompsoc/meetings/blob/master/committee/2015-11-06/minutes.md#item-5---events)
+    (item 5) and [previous group minutes](https://github.com/abercompsoc/meetings/blob/master/general/2015-10-29/minutes.md#item-6---events)(item 6 and any progress made on them
   - action to all members apparently was to email suggestions of name, see if
     that actually happened
 
