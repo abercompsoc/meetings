@@ -23,7 +23,7 @@ Agenda
 - Find out who wants to go to the Teach First pub quiz on Monday 30th at 6pm in the SU main room. Free pizza and prizes! - Costs 50p per person
 - Discuss state of official documents.
 - Discuss state of communication
-  - mailing lists: do we need an -announce mailing list and a committee mailing list
+  - mailing lists: do we need an -announce mailing list and a committee mailing list. Reminder that the main mailing list is open to be posted to by anyone, maybe publish a how-to?
   - irc: it exists and we should use it
   - usage of facebook: events for things we organize
 - Summary of what's been said on the google group, not all members have signed up.
