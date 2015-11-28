@@ -6,6 +6,11 @@
 
 ##2015-11-27
 
+###Links
+https://github.com/abercompsoc
+https://groups.google.com/forum/#!forum/abercompsoc
+https://www.facebook.com/groups/1583682251884620/
+
 
 ####Present:
 -----------
