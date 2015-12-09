@@ -14,15 +14,15 @@
 
 ##Present:
 
-- James Baker(jab67)
-- Nicholas Rostant(ndr2)
-- Daniel Clark(dac46)
-- William Hogg(wih6)
-- Tom Morrison(thm17) - Treasurer
-- James Bridgewater(jab42)
-- Joshua Mir(jom47)
-- Douglas Gardner(dog2)
-- Nicholas Dimonaco(nid16) - Secretary
+- James Baker (jab67)
+- Nicholas Rostant (ndr2)
+- Daniel Clark (dac46)
+- William Hogg (wih6)
+- Tom Morrison (thm17) - Treasurer
+- James Bridgewater (jab42)
+- Joshua Mir (jom47)
+- Douglas Gardner (dog2)
+- Nicholas Dimonaco (nid16) - Secretary
 - Louis Taylor (lot15)
 - Josh Smith (jos67)
 - ELizabeth Stone (eas12)
@@ -38,7 +38,7 @@ Minutes accepted as correct.
 
 ###Completed:
 
-- Committee - Speak to Daniel Clark(dac46), Louis Taylor(lot15) and Colin Sauze(cos) to discuss a possible link to AberSailbot - Organise a meeting
+- Committee - Speak to Daniel Clark (dac46), Louis Taylor (lot15) and Colin Sauze (cos) to discuss a possible link to AberSailbot - Organise a meeting
 - Committee - Organise a committee meeting for Friday November 6th at 6:15pm
 - nid16 - Book meeting room in Brynamlwg for Friday November 6th at 6pm (Committee Meeting)
 - nid16 - Book meeting room in Brynamlwg for Friday November 27th at 6pm (Group Meeting)
