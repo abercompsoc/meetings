@@ -1,7 +1,7 @@
 AberCompSoc/BSC Student Chapter
 ===============================
 
-General Meeting 3 - 2015-11-27
+General Meeting 3 - 2016-02-12
 
 Present
 -------
