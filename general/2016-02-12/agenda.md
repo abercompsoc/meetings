@@ -53,5 +53,10 @@ Agenda
 - Discuss name capitalisation
 - Does the Facebook Group name needs changing
 - Abersailbot minibus usage
+- Promotional materials
+  - Stickers
+  - Banners
+  - Leaflets
+  - Stand sign
 
 - AOB
