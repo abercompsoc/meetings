@@ -54,6 +54,8 @@ Agenda
 - Discuss name capitalisation
 - Does the Facebook Group name needs changing
 - Abersailbot minibus usage
+- Feedback from refreshers faire
+  - Have the new members been added to the mailing list? / other groups?
 - Elections
   - What's happening?
   - When is it?
