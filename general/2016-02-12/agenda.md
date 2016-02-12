@@ -59,5 +59,6 @@ Agenda
   - When is the deadline for nominations?
   - Are self nominations allowed?
   - How many nominations does a candidate need before being able to stand?
-
+- Meeting templates
+  - Can we store a standard empty agenda and minutes template in the repos which can be easily copied and filled in for future meetings
 - AOB
