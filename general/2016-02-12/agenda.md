@@ -48,8 +48,23 @@ Agenda
     - Internal AberHackathon
     - Raspberry Jams
     - Programming Challenges like the recent UKIEPC
+  - New
+    - Intro to open source project contribution - lot15
+  - Assign future events to a member who should organise it and be the point of contact
 - Discuss name capitalisation
 - Does the Facebook Group name needs changing
 - Abersailbot minibus usage
-
+- Feedback from refreshers faire
+  - Have the new members been added to the mailing list? / other groups?
+- Elections
+  - What's happening?
+  - How's the voting going to work?
+  - When is it?
+  - What are the roles?
+  - When is the deadline for nominations?
+  - How do you nominate someone?
+  - Are self nominations allowed?
+  - How many nominations does a candidate need before being able to stand?
+- Meeting templates
+  - Can we store a standard empty agenda and minutes template in the repos which can be easily copied and filled in for future meetings
 - AOB
