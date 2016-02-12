@@ -48,6 +48,7 @@ Agenda
     - Internal AberHackathon
     - Raspberry Jams
     - Programming Challenges like the recent UKIEPC
+  - Assign future events to a member who should organise it and be the point of contact
 - Discuss name capitalisation
 - Does the Facebook Group name needs changing
 - Abersailbot minibus usage
