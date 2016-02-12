@@ -35,6 +35,8 @@ Agenda
   - eas12 - Post to mailing list about space fair in Leichester.
   - lot15 and dac46 - Investigate cloud server, talk with Dave Price.
   - dac46 - Try and get access to the money stored in the Robotics Society bank account
+- Discuss vote for society Secretary
+
 
 - Events
   - Completed
@@ -42,29 +44,14 @@ Agenda
     - Teach-First pub quiz (postponed)
   - To do
     - Visit to Bletchley Park (suggest to be around Easter)
-    - Talk from Bletchley Park
+    - Talk from Bletchley Park (Tom suggests we don't bother as we have someone coming from the BCS)
     - Talk from Teach First (Helen as current contact)
     - Rob Clarke from HP (Louis as current contact)(Late this year)
     - Internal AberHackathon
     - Raspberry Jams
     - Programming Challenges like the recent UKIEPC
-  - New
-    - Intro to open source project contribution - lot15
-  - Assign future events to a member who should organise it and be the point of contact
 - Discuss name capitalisation
 - Does the Facebook Group name needs changing
 - Abersailbot minibus usage
-- Feedback from refreshers faire
-  - Have the new members been added to the mailing list? / other groups?
-- Elections
-  - What's happening?
-  - How's the voting going to work?
-  - When is it?
-  - What are the roles?
-  - When is the deadline for nominations?
-  - How do you nominate someone?
-  - Are self nominations allowed?
-  - How many nominations does a candidate need before being able to stand?
-- Meeting templates
-  - Can we store a standard empty agenda and minutes template in the repos which can be easily copied and filled in for future meetings
+
 - AOB
