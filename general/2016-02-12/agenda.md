@@ -52,5 +52,12 @@ Agenda
 - Discuss name capitalisation
 - Does the Facebook Group name needs changing
 - Abersailbot minibus usage
+- Elections
+  - What's happening?
+  - When is it?
+  - What are the roles?
+  - When is the deadline for nominations?
+  - Are self nominations allowed?
+  - How many nominations does a candidate need before being able to stand?
 
 - AOB
