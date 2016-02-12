@@ -58,9 +58,11 @@ Agenda
   - Have the new members been added to the mailing list? / other groups?
 - Elections
   - What's happening?
+  - How's the voting going to work?
   - When is it?
   - What are the roles?
   - When is the deadline for nominations?
+  - How do you nominate someone?
   - Are self nominations allowed?
   - How many nominations does a candidate need before being able to stand?
 - Meeting templates
