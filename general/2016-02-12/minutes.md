@@ -24,7 +24,7 @@ James Bridgewater (jab42)
 ##Apologies:
 - Douglas Gardner (dog2)
 - Nicholas Dimonaco (nid16)
-- Sam
+- Sam Nicholls (msn)
 
 ##Item 1 - Review minutes of last meeting
 	- Nothing great to discuss
@@ -126,6 +126,7 @@ James Bridgewater (jab42)
 	22 - all: Number the actions in minutes
 	23 - Tom: Get official stance on welsh translation of emails, IS mailing list, we may need to use student union
 	24 - Louis: Stick stance in correct position in documentation of soc
+	25 - Dan: Speak to Tom Cartwright to see if he can be a translator
 
 ##Actions split by member:
 
@@ -140,6 +141,10 @@ James Bridgewater (jab42)
 	        2 - All open actions to be raised as issues on Github
 	        19 - Look up Rasberry Jam times, post on mailing list..
 	
+	Dan:
+		16 - Organise Hackerthon
+		25 - Speak to Tom Cartwright to see if he can be a translator
+
 	Dan and Louis:
 	        20 - Finish document for dap specifying specifics of servers, needs to be finished and given to dap, Tom will need document if BCS money required
 	
@@ -161,7 +166,7 @@ James Bridgewater (jab42)
 		10 - Gget a list of email addresses for the soc members. Closer to the lection itself
 		13 - Discuss whether BCS is sub set of Comp soc
 		18 - Post on mailing list the vote for interest on Bletchley trip, organise trip if sufficient interest (Dan provisional driver)
-		23 - Get official stance on welsh translation of emails, IS mailing list, we may need to use student union
+		23 - Get official stance on welsh translation of emails, IS mailing list, we may need to use student union translation
 
 ##Actions to members not present
 
