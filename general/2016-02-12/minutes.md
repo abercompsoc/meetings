@@ -119,9 +119,11 @@ James Bridgewater (jab42)
 	15 - Louis: Rope together some open source people for an event, within a couple of months
 	16 - Dan : To organise Hackerthon
 	17 - Louis: Persue HP talk (Rob Clark), post request for interest on mailing list/facebook
-	18 - Tom: Post on mailing list the vote for interest on Bletchley trip, organise trip if sufficient interest (Dan provisional driver)
+	18 - Tom: Post on mailing list the vote for interest on Bletchley trip, organise trip if sufficient interest
+	(Dan provisional driver)
 	19 - James Bridgewater : Look up Rasberry Jam times, post on mailing list..
-	20 - Dan and Louis: Finish document for dap specifying specifics of servers, needs to be finished and given to dap, Tom will need document if BCS money required
+	20 - Dan and Louis: Finish document for dap specifying specifics of servers, needs to be finished and given to dap,
+	Tom will need document if BCS money required
 	21 - Louis: Talk to HP regarding servers 
 	22 - all: Number the actions in minutes
 	23 - Tom: Get official stance on welsh translation of emails, IS mailing list, we may need to use student union
@@ -146,7 +148,8 @@ James Bridgewater (jab42)
 		25 - Speak to Tom Cartwright to see if he can be a translator
 
 	Dan and Louis:
-	        20 - Finish document for dap specifying specifics of servers, needs to be finished and given to dap, Tom will need document if BCS money required
+	        20 - Finish document for dap specifying specifics of servers, needs to be finished and given to dap
+		, Tom will need document if BCS money required
 	
 	Louis:  
 	        3 - Create template for agenda and minutes
@@ -165,8 +168,10 @@ James Bridgewater (jab42)
 		8 - Get BCS position on advertising
 		10 - Gget a list of email addresses for the soc members. Closer to the lection itself
 		13 - Discuss whether BCS is sub set of Comp soc
-		18 - Post on mailing list the vote for interest on Bletchley trip, organise trip if sufficient interest (Dan provisional driver)
-		23 - Get official stance on welsh translation of emails, IS mailing list, we may need to use student union translation
+		18 - Post on mailing list the vote for interest on Bletchley trip, organise trip if sufficient interest 
+		(Dan provisional driver)
+		23 - Get official stance on welsh translation of emails, IS mailing list, we may need to use 
+		student union translation
 
 ##Actions to members not present
 
