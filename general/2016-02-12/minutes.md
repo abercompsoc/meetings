@@ -122,8 +122,8 @@ James Bridgewater (jab42)
 	18 - Tom: Post on mailing list the vote for interest on Bletchley trip, organise trip if sufficient interest
 	(Dan provisional driver)
 	19 - James Bridgewater : Look up Rasberry Jam times, post on mailing list..
-	20 - Dan and Louis: Finish document for dap specifying specifics of servers, needs to be finished and given to dap,
-	Tom will need document if BCS money required
+	20 - Dan and Louis: Finish document for dap specifying specifics of servers, needs to be finished and given to 
+	dap, Tom will need document if BCS money required
 	21 - Louis: Talk to HP regarding servers 
 	22 - all: Number the actions in minutes
 	23 - Tom: Get official stance on welsh translation of emails, IS mailing list, we may need to use student union
