@@ -104,33 +104,32 @@ James Bridgewater (jab42)
 #Actions:
 ##List of all actions:
 
-1. Tom: Update roles spec, add open actions into issues for Secretary 
-2. James Bridgewater: All open actions to be raised as issues on Github 
-3. Louis: Create template for agenda and minutes
-4. Nick: Add new members to broadcast mailing list
-5. Louis: Send new members list to Nick
-6. Louis: Add refreshers people to Google mailing list
-7. Tom : Speak to Michael about logo design
-8. Tom : Get BCS position on advertising 
-9. Louis: Send email on list for people to put themselves forwards for positions
-10. Tom: Get a list of email addresses for the soc members. Closer to the lection itself
-11. James Baker: ASAP get election procedure details from SU
-12. Nick: Announce date for election on public email, needs atleast 2 week notice
-13. Tom: Discuss whether BCS is sub set of Comp soc
+1. Tom: Update roles spec, add open actions into issues for Secretary - #14
+2. James Bridgewater: All open actions to be raised as issues on Github
+3. Louis: Create template for agenda and minutes - #6
+4. Nick: Add new members to broadcast mailing list - #21
+5. Louis: Send new members list to Nick - #7
+6. Louis: Add refreshers people to Google mailing list- #8
+7. Tom : Speak to Michael about logo design - #15
+8. Tom : Get BCS position on advertising - #16
+9. Louis: Send email on list for people to put themselves forwards for positions - #9
+10. Tom: Get a list of email addresses for the soc members. Closer to the lection itself - #17
+11. James Baker: ASAP get election procedure details from SU - #23
+12. Nick: Announce date for election on public email, needs atleast 2 week notice - #22
+13. Tom: Discuss whether BCS is sub set of Comp soc - #18
 14. All: Work out rough time frame for events
-15. Louis: Rope together some open source people for an event, within a couple of months
-16. Dan : To organise Hackerthon
-17. Louis: Persue HP talk (Rob Clark), post request for interest on mailing list/facebook
+15. Louis: Rope together some open source people for an event, within a couple of months - #10
+16. Dan : To organise Hackerthon - #3
+17. Louis: Persue HP talk (Rob Clark), post request for interest on mailing list/facebook - #11
 18. Tom: Post on mailing list the vote for interest on Bletchley trip, organise trip if sufficient interest
-(Dan provisional driver)
-19. James Bridgewater : Look up Rasberry Jam times, post on mailing list..
-20. Dan and Louis: Finish document for dap specifying specifics of servers, needs to be finished and given to 
-dap, Tom will need document if BCS money required
-21. Louis: Talk to HP regarding servers 
-22. all: Number the actions in minutes
-23. Tom: Get official stance on welsh translation of emails, IS mailing list, we may need to use student union
-24. Louis: Stick stance in correct position in documentation of soc
-25. Dan: Speak to Tom Cartwright to see if he can be a translator
+(Dan provisional driver) - 19
+19. James Bridgewater : Look up Rasberry Jam times, post on mailing list - #2
+20. Dan and Louis: Finish document for dap specifying specifics of servers, needs to be finished and given to dap, Tom will need document if BCS money required - #5
+21. Louis: Talk to HP regarding servers - #12
+22. all: Number the actions in minutes 
+23. Tom: Get official stance on welsh translation of emails, IS mailing list, we may need to use student union - #20
+24. Louis: Stick stance in correct position in documentation of soc - #13
+25. Dan: Speak to Tom Cartwright to see if he can be a translator - #4
 
 ##Actions split by member:
 
