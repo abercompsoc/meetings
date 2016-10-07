@@ -25,5 +25,5 @@ Schedule
 - Sponsorship
     - the BCS
     - ideas of who else
-- Soc hoodies/shirts/other merchendise
+- Soc hoodies/shirts/other merchandise
 - Other announcements
