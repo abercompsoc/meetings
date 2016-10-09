@@ -1,6 +1,6 @@
 AberCompSoc
 ===========
-Meeting on 2016-10-7 at 18:30
+Meeting on 2016-10-07 at 18:30
 
 Actions Brought Forward
 -----------------------
