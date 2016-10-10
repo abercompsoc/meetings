@@ -14,21 +14,21 @@ Lizzie (eas12)
 - https://www.facebook.com/groups/1583682251884620/
 
 ##Present:
-- Lizzie (eas12)
-- (clc20)
-- (aih16)
-- JoshS(jos67)
-- (aly4)
-- (aaw13)
-- (thm17)
-- (pas28)
-- (sab69)
-- (tjc1)
-- (alw29)
-- (eva4)
+- Lizzie Stone (eas12)
+- Cloud Coppola (clc20)
+- Aidan Hogden (aih16)
+- Josh Smith (jos67)
+- Alex Yarwood (aly4)
+- Aaron Walker (aaw13)
+- Tom Morrison (thm17)
+- Paul Swain (pas28)
+- Sam Brown (sab69)
+- Tom Christofferson (tjc1)
+- Alexander Westermann (alw29)
+- Evan Almaas (eva4)
 
 ##Apologies:
-- Aga ()
+- Aga (agj14)
 
 ##Item 1 - Review minutes of last meeting
 
