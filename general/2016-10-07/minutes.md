@@ -72,7 +72,9 @@ Lizzie (eas12)
 - Other sponsors are wanted. Ideas are:
     - Cambrian
     - Beechings
-    - ... 
+    - Fountain Inn
+    - Hexus/Scan
+    - Intel/AMD
 
 ##AOB:
 -
