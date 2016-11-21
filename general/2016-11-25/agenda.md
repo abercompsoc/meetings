@@ -26,3 +26,4 @@ Samuel Claxton (sac40)
   - BCS Fosdem sponsorship
 
 - AOB
+  - Aaron - Christmas meal
