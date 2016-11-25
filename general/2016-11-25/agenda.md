@@ -33,6 +33,8 @@ Samuel Claxton (sac40)
   - Optional society group photo
   - Stricter with events and socials (Only AberCompSoc members can participate)
   - Ideas for recruiting more members
+  - Make website nicer and finable on google
+  - investigate shutting down very old soc website
   
 - AOB
   - Aaron - Christmas meal
