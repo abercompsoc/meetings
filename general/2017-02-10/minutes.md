@@ -130,7 +130,7 @@ Minutes accepted as correct
 
 1. Get vectorised CompSoc logo - eas12
 2. Look into buying t-shirts - jaw84
-3. Look into sponsorship/funding - UNASSIGNED
+3. Look into sponsorship/funding - jaw84
 4. Look into buying stickers - jaw84
 5. Contact CompSci department for CompSoc wall space - UNASSIGNED
 6. Re-design CompSoc Flyers - UNASSIGNED
@@ -155,6 +155,7 @@ Minutes accepted as correct
 ###Jack Webb - jaw84
 
 - Look into buying t-shirts
+- Look into sponsorship/funding
 - Look into buying stickers
 
 ###Aidan Hodgen - aih16
@@ -175,7 +176,6 @@ Minutes accepted as correct
 
 ###UNASSIGNED
 
-- Look into sponsorship/funding
 - Contact CompSci department for CompSoc wall space
 - Re-design CompSoc Flyers
 - Contact Sandy Spence re. group photo
