@@ -1,7 +1,10 @@
 #Agenda
 #AberCompSoc Cyber Security Task Force
-###Committee Meeting 1
+
+##Committee Meeting 1
+
 ##Author: Max Kossatz (mak72)
+
 ##21-02-2017
 
 Meeting led by: Max Kossatz (CSTF President)
