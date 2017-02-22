@@ -1,9 +1,10 @@
 #Agenda
+##Author: 
+Max Kossatz (mak72)
+
 #AberCompSoc Cyber Security Task Force
 
 ##Committee Meeting 1
-
-##Author: Max Kossatz (mak72)
 
 ##21-02-2017
 
