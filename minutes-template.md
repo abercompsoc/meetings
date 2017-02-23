@@ -13,55 +13,55 @@ Person (abc12)
 - https://groups.google.com/forum/#!forum/abercompsoc
 - https://www.facebook.com/groups/1583682251884620/
 
-##Present:
+##Present: <!--- List of all people (and user names) present in the meeting --->
 - 
 
-##Apologies:
+##Apologies: <!--- list of all people that could not attend the meeting but needed to be there --->
 - 
 
-##Item 1 - Review minutes of last meeting
-
-- 
-
-##Item 2 - Report on actions carried out by each member
+##Item 1 - Review minutes of last meeting 
 
 - 
 
-###Completed:
+##Item 2 - Report on actions carried out by each member <!--- see Actions of previous minutes --->
+
 - 
 
-###Carried Forward:
+###Completed: <!--- what actions discussed at the last meeting have been completed? --->
 - 
 
-##Item - ....
+###Carried Forward: <!--- what actions discussed at the last meeting were not completed yet, and still should be completed? --->
 - 
 
-##Item - ...
+##Item 3 - .... <!--- item 1 from the agenda --->
+-  <!--- notes on what exactly discussed, what was decided, outcome of vote (rough numbers), who was actioned to do a task --->
+
+##Item 4 - ...
 - 
 
-##Item - ....
+##Item 5 - ....
 
-##AOB:
+##AOB: <!--- Any Other Business: place where anything not on the agenda, but was bought up and discussed at the meeting goes --->
 
-#Actions:
+#Actions: <!--- Things people need to go away and do after the meeting --->
 ##List of all actions:
 
-1. ...
+1. ... <!--- in the format "Person (abc12) - do this stuff" --->
 2. .....
 
 ##Actions split by member:
 
-###All:
-14. ...
+###All: <!--- what everyone needs to do (e.g. sign up to slack) --->
+14. ... <!--- The numbers here should be the same as in the list of all actions ---> 
 
-###person...: 
+###person (abc12): 
 11. 
 
-###anotherperson...:
+###anotherperson (xyz98):
 2. 
 
 ##Actions to members not present
 
-###persons...:
+###persons (...):
 4. 
 
