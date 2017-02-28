@@ -1,10 +1,10 @@
 #Agenda
 ##Author:
-Person (abc12)
+Jack Webb (jaw84)
 
-##General Meeting 3 
+##Committee Meeting 2 
 
-##YYYY-MM-DD
+##2017-03-03
 
 ##Actions Brought Forward
 
@@ -24,6 +24,29 @@ Person (abc12)
     - ....
   - New
     - ....
+    
+- Discussion of changing committee channel to private
+  - Method of privatisation (if decided)
+    - Make current channel private and remove members
+    - Archive and make new private committee channel 
+
+- Role of Publicity Officer
+  - Posting to Twitter, other networks
+  - Creation of public Facebook page
+  
+- Discussion of communications of CSTF
+  - Documents currently written in a way that presents it as "us vs them", not a community
+  - Should be written as one
+  - Too "business like"
+  
+- CSTF Legal issues
+  - Abusing knowledge gained
+  - Our responsibility for their actions
+
+- Sponsorships
+  - Ideas for who/why
+  - Anticipated: Followed up by Jack Webb (jaw84)
+
 - ....
 - AOB
 
