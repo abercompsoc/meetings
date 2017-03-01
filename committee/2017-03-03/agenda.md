@@ -57,7 +57,7 @@ Claudio M Coppola (clc20)
    - Should colours be changed to mix it up a bit and add variety? (Grey, Silver, Red, Green or others)
    - Society banner perhaps include a circuit, binary, humanoid robot, AI design or all (Need a graphics student to do this)
 
- - Society Font Change 
+- Society Font Change 
    - Coda
    - Other?
    
@@ -68,7 +68,7 @@ Claudio M Coppola (clc20)
   - Even though AberSailbot is completely separate from AberCompSoc, perhaps include it as some comp sci students may be 
   interested in it too
   
- - Advertisement for Recruitment  
+- Advertisement for Recruitment  
    - Aber Comp Sci
    - Twitter 
    - Others
