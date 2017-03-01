@@ -1,5 +1,5 @@
 #Agenda
-##Author:
+##Authors:
 Jack Webb (jaw84)
 Claudio M Coppola (clc20)
 
