@@ -20,7 +20,7 @@ Claudio M Coppola (clc20)
   
 - Discussion of communications of CSTF
   - Documents currently written in a way that presents it as "us vs them", not a community
-  - Should be written as one
+  - Should be written to portray that ACS is a community - remember, these minutes docs are open source!
   - Too "business like"
   
 - CSTF Legal issues
