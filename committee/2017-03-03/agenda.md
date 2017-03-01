@@ -7,8 +7,6 @@ Claudio M Coppola (clc20)
 
 ##2017-03-03
 
-##Actions Brought Forward
-
 ##Agenda
 
 - Discussion of changing committee channel to private
@@ -88,5 +86,4 @@ Claudio M Coppola (clc20)
   - Members should probably be able to assign and label issues.
   - Aim for a situation where the committee only causes a bottleneck in workflow when official society documents, creating new repositories or teams, etc. are involved.
   
-- ....
 - AOB
