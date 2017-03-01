@@ -96,5 +96,12 @@ Claudio M Coppola (clc20)
   - [This](https://groups.google.com/forum/#!forum/abercompsoc) is still listed on the website as the official mailing list.
   - Not used for the year so far.
   
+- Review Member level access to the GitHub
+  - If projects within the society are intended to live in the society GitHub members should probably have write access and not have to go through comittee members to merge a pull request.
+  - Certain repositiories should probably only have write access for committee members (e.g. official docs)
+    - Could employ GitHub's Teams feature to provide correct access levels.
+  - Members should probably be able to assign and label issues.
+  - Aim for a situation where the committee only causes a bottleneck in workflow when official society documents, creating new repositories or teams, etc. are involved.
+  
 - ....
 - AOB
