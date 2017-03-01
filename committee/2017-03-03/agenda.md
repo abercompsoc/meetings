@@ -55,8 +55,8 @@ Claudio M Coppola (clc20)
    - Keep the logo as it is (Welsh Dragon and Curly Brackets) as everyone likes it, or create a design where the dragon has
    the same layout but looks mechanical (Robot Welsh Dragon)  
    - Should colours be changed to mix it up a bit and add variety? (Grey, Silver, Red, Green or others)
-   - Society banner perhaps include a circuit, binary, humanoid robot, AI design or all (Need a graphics student to do this) 
-   
+   - Society banner perhaps include a circuit, binary, humanoid robot, AI design or all (Need a graphics student to do this)
+
  - Society Font Change 
    - Coda
    - Other?
@@ -67,12 +67,12 @@ Claudio M Coppola (clc20)
   - Include information about CSTF 
   - Even though AberSailbot is completely separate from AberCompSoc, perhaps include it as some comp sci students may be 
   interested in it too
- 
+  
  - Advertisement for Recruitment  
    - Aber Comp Sci
    - Twitter 
    - Others
-
+   
 - Committee Rules
   - Have to make sure that the society will function for a long time especially when current members leave in the future and
   new members take their place
@@ -81,17 +81,16 @@ Claudio M Coppola (clc20)
   - Committee members not doing roles properly 
   - How long it should be before considering that the committee member is not suited for that position (1 or 2 weeks of 
   inactivity) 
-
+  
 - Society Meet-Ups 
   - To discuss projects 
   - Work on projects 
   - Hang out 
- 
+  
 - Potential Projects 
   - Create an app and sell to gain income 
   - AberDroneRacing 
   - AberRobotWars
-  
   
 - ....
 - AOB
