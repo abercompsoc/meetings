@@ -92,5 +92,9 @@ Claudio M Coppola (clc20)
   - AberDroneRacing 
   - AberRobotWars
   
+- Fate of the mailing list
+  - [This](https://groups.google.com/forum/#!forum/abercompsoc) is still listed on the website as the official mailing list.
+  - Not used for the year so far.
+  
 - ....
 - AOB
