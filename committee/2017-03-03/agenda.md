@@ -89,7 +89,7 @@ Claudio M Coppola (clc20)
   
 - Potential Projects 
   - Create an app and sell to gain income 
-  - AberDroneRacing 
+  - AberFPVDroneRacing 
   - AberRobotWars
   
 - ....
