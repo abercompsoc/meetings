@@ -1,6 +1,6 @@
 #Agenda
 ##Authors:
-Jack Webb (jaw84)
+Jack Webb (jaw84)  
 Claudio M Coppola (clc20)
 
 ##Committee Meeting 2 
