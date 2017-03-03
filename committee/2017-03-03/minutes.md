@@ -1,5 +1,6 @@
 #Minutes
-
+##Author:
+Sam Claxton (sac40)
 ##Aberystwyth Computer Science Society
 
 ##Committee Meeting 1
@@ -36,7 +37,7 @@
 
 ####Item 3 - Discussion of communications of CSTF:
 
-  - The Committee discussed how best to communicate with the Cyber Security Tasf Force, and decided on the following points
+  - The Committee discussed how best to communicate with the Cyber Security Task Force, and decided on the following points
     - The society needs to outline a set of well defined tandards and morals for documents, files on git etc.
     - A comprehensive, specific and unambigious treaty should be drawn up with the Cyber Security Task Force detailing our 
     relationship and outling where we are heading
