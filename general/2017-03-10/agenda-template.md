@@ -21,6 +21,8 @@ Lizzie (eas12)
     - Access on git - owners, members etc
     - Official agreement with CSTF
     - weekly emails to say whats happening (like in other socs)
+    - announce AGM (propse 31st March)
+      - any proposed changes to constitution must be submitted two weeks before the AGM (e.g. before 17th)
     
 - AOB
 
