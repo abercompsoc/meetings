@@ -2,7 +2,6 @@
 ##Author:
 Lizzie Stone (eas12)  
 Claudio Coppola (clc20)  
-Jack Webb (jaw84)
 
 ##General Meeting 3 
 
