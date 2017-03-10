@@ -20,6 +20,7 @@ Lizzie (eas12)
 - New
     - Access on git - owners, members etc
     - Official agreement with CSTF
+    - weekly emails to say whats happening (like in other socs)
     
 - AOB
 
