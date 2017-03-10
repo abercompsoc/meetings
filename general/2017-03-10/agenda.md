@@ -1,7 +1,8 @@
 #Agenda
 ##Author:
-Lizzie (eas12)
-Claudio (clc20)
+Lizzie Stone (eas12)  
+Claudio Coppola (clc20)  
+Jack Webb (jaw84)
 
 ##General Meeting 3 
 
@@ -24,7 +25,7 @@ Claudio (clc20)
 
    - Item 3 - Discussion of communications of CSTF:
      - The Committee discussed how best to communicate with the Cyber Security Task Force, and decided on the following points
-        - The society needs to outline a set of well defined tandards and morals for documents, files on git etc.
+        - The society needs to outline a set of well defined tandards and morals for documents, files on GitHub etc.
         - A comprehensive, specific and unambigious treaty should be drawn up with the Cyber Security Task Force detailing our relationship and outling where we are heading
 
     - Item 4 - CSTF Legal issues:
@@ -89,7 +90,7 @@ Claudio (clc20)
   - xyz - ...
 
 - New
-    - Access on git - owners, members etc
+    - Access on GitHub - owners, members etc
     - Official agreement with CSTF
     - weekly emails to say whats happening (like in other socs)
     - announce AGM (propse 31st March)
