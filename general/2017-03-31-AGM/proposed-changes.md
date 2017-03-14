@@ -1,10 +1,10 @@
-#Proposed Changes
+# Proposed Changes
 Please list below any changes you would like discussed at the AGM. 
 
 Please note, any proposed changes to the constitution must be submitted two 
 weeks before the AGM (before 17th March).
 
-##Changes to the Constitution
+## Changes to the Constitution
 
 <!--- Example:
 ###Update aim of society
