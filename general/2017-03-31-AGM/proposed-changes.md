@@ -13,7 +13,7 @@ should be written in LaTeX and the .tex and .pdf files should be held on git.
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Add a mission for AberCompSoc
 Currently there is no mission in our constitution. I propose the following 
@@ -26,7 +26,7 @@ Exact wording is open to discussion.
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Remove all references to sports clubs 
 The current constitution is made from a union template, and thus has irrelavent 
@@ -34,7 +34,7 @@ mentions of sports membership, specifically in 4.1 and 4.2.
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Update the list of committee positions 
 Clause 5.1. I propose this should read:
@@ -43,7 +43,7 @@ Clause 5.1. I propose this should read:
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Include date of AGM
 There is currently a blank space where this should be specified. I propose 
@@ -52,21 +52,21 @@ Easter Holiday begins in the case that holiday begins in March).
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Update clause on minutes
 Currently this says that minutes "shall be available through email to all members." We propose this should be changed to "shall be publicly available on github to all members."
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Update description of roles
 Include descriptions of Publicity Officer and Vice-President (as set out in the current manifestos document), and improve the description of Social Secretary.
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Change title of document
 Current title reads "Template: Constitution Societies & Sports 2016/17".
@@ -75,14 +75,14 @@ We propose this should be changed to "AberCompSoc Constitution 20??/??" where
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 ### Remove "the" as a precursor to AberCompSoc
 In places we are referred to as "the AberCompSoc", and this is recorded in the constitution as our official name. We propose that this is changed to "AberCompSoc".
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Nick (ndr2)
 
 <!--- Example:
 ###Update aim of society
