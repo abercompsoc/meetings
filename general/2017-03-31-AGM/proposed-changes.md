@@ -24,7 +24,7 @@ related fields."
 
 Exact wording is open to discussion.
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
@@ -32,7 +32,7 @@ Seconded by:
 The current constitution is made from a union template, and thus has irrelavent 
 mentions of sports membership, specifically in 4.1 and 4.2.
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
@@ -41,7 +41,7 @@ Clause 5.1. I propose this should read:
 
 "5.1) The Committee shall be made up of the following positions: President, Secretary, Treasurer and Social Secretary. Where deemed necessary, the following committee positions may also be held: Vice-President, Publicity Officer and another Social Secretary"
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
@@ -50,21 +50,21 @@ There is currently a blank space where this should be specified. I propose
 the AGM is held on the last Friday of March each year (or a week before the 
 Easter Holiday begins in the case that holiday begins in March).
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
 ### Update clause on minutes
 Currently this says that minutes "shall be available through email to all members." We propose this should be changed to "shall be publicly available on github to all members."
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
 ### Update description of roles
 Include descriptions of Publicity Officer and Vice-President (as set out in the current manifestos document), and improve the description of Social Secretary.
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
@@ -73,14 +73,14 @@ Current title reads "Template: Constitution Societies & Sports 2016/17".
 We propose this should be changed to "AberCompSoc Constitution 20??/??" where
 ?? should be replaced with the corresponding years. 
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
 ### Remove "the" as a precursor to AberCompSoc
 In places we are referred to as "the AberCompSoc", and this is recorded in the constitution as our official name. We propose that this is changed to "AberCompSoc".
 
-Proposed by: Lizzie Stone
+Proposed by: Lizzie (eas12)
 
 Seconded by:
 
