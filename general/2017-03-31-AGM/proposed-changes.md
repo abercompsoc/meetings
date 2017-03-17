@@ -108,11 +108,11 @@ Currently the committee consists of President, Vice-President, Treasurer, Social
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Aidan (aih16)
 
 ### Remove the role of Publicity Officer
 See reasons above for removal of Vice-President. With the role of Secretary being held by an active person next year, the role of Publicity Officer should not be needed. I propose the role of Publicity Officer is withdrawn for next year, and only brought back if it becomes apparent the role is needed.
 
 Proposed by: Lizzie (eas12)
 
-Seconded by:
+Seconded by: Aidan (aih16)
