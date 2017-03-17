@@ -14,11 +14,17 @@ the society/club is in accordance with the views of its members. They must carry
 listed elsewhere in the constitution.
 
 The following wish to stand for this position: 
+
 <!---
 Example:
 ### Bob (abc12)
 I would make a good president because...
 --->
+
+## Vice President
+(Description to follow shortly)
+
+The following wish to stand for this position: 
 
 ## Treasurer
 Responsible for keeping track of any money the society deals with, including union accounts (following all union rules), dealing with our sponsor(s) and collecting money for any tours and merchandise. Will need to pay attention to detail with all records. More detail is available here (https://github.com/abercompsoc/official-docs/blob/master/Constitution%20(SocietiesSports%2016.17).pdf) under section 8.
