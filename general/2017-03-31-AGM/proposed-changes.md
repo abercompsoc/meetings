@@ -100,3 +100,19 @@ Currently there is no listed aim, this section is currently blank.
 Proposed by: Bob (abc12)
 Seconded by: Alice (xyz89)
 --->
+
+## Other Changes
+
+### Remove the role of vice-president
+Currently the committee consists of President, Vice-President, Treasurer, Social Secretaries (x2) and a Publicity Officer. Next year there will also be a Secretary. This is a very big committee for the size of active members. This encourages a culture of not helping out unless a person holds a role that specifically says they should. It also makes management much harder. The role of vice-president was only made to make up for an inactive Secretary. I propose the role of Vice-President is withdrawn for next year, and only brought back if it becomes apparent the role is needed.
+
+Proposed by: Lizzie (eas12)
+
+Seconded by:
+
+### Remove the role of Publicity Officer
+See reasons above for removal of Vice-President. With the role of Secretary being held by an active person next year, the role of Publicity Officer should not be needed. I propose the role of Publicity Officer is withdrawn for next year, and only brought back if it becomes apparent the role is needed.
+
+Proposed by: Lizzie (eas12)
+
+Seconded by:
