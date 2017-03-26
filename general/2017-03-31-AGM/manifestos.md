@@ -16,7 +16,7 @@ listed elsewhere in the constitution.
 The following wish to stand for this position: 
 
 #### Samantha Pendleton
-As president of CompSoc, I will assist in it growing to become a bigger and stronger society within the university: I have a lot of ideas that can help it stand out from the rest
+"As president of CompSoc, I will assist in it growing to become a bigger and stronger society within the university: I have a lot of ideas that can help it stand out from the rest"
 <!---
 Example:
 ### Bob (abc12)
