@@ -47,6 +47,10 @@ The following wish to stand for this position:
 
 The following wish to stand for this position: 
 
+### Rhys Mabey
+
+"I will make comp sci socials great again. I love to drink and love to socialise with fellow comp-scis. I have loads of great ideas for socials, but love to have chill socials too."
+
 ## Publicity Officer
 *This role is to publicise the society and society events. This includes using social media (eg facebook and twitter), taking photos at events, producing fliers/leaflets about the society (for freshers fairs etc). The general aim is to encourage people to join the society and society events.*
 
