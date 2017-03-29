@@ -42,6 +42,10 @@ duties stated elsewhere in the constitution.*
 
 The following wish to stand for this position: 
 
+#### Nicholas Rostant
+
+"Over the past two years our society has seen some incredible growth, from a small offshoot of the BCS to a Society capable of organising international trips and more. It is with an eye towards maintaining this growth and continuing the hard work of the current committee that I would like to offer myself up for the position of Secretary."
+
 ## Social Secretary
 *Responsibilities include organising social events, including weekly socials. There are two of this role available.*
 
