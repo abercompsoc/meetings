@@ -4,6 +4,12 @@ why you think you would be good at this role, in the corresponding section liste
 
 Voting will take place on 31st March - add your name before then to be considered.
 
+<!---
+Example:
+#### Bob (abc12)
+I would make a good president because...
+--->
+
 ## President
 *The President shall be the main contact point for external communications with
 all external groups and individuals. This includes AberSU. They are further responsible for the
@@ -17,11 +23,6 @@ The following wish to stand for this position:
 
 #### Samantha Pendleton
 "As president of CompSoc, I will assist in it growing to become a bigger and stronger society within the university: I have a lot of ideas that can help it stand out from the rest"
-<!---
-Example:
-### Bob (abc12)
-I would make a good president because...
---->
 
 ## Vice President
 *(Description to follow shortly)*
@@ -29,9 +30,12 @@ I would make a good president because...
 The following wish to stand for this position: 
 
 ## Treasurer
-*Responsible for keeping track of any money the society deals with, including union accounts (following all union rules), dealing with our sponsor(s) and collecting money for any tours and merchandise. Will need to pay attention to detail with all records. More detail is available here (https://github.com/abercompsoc/official-docs/blob/master/Constitution%20(SocietiesSports%2016.17).pdf) under section 8.*
+*Responsible for keeping track of any money the society deals with, including union accounts (following all union rules), dealing with our sponsor(s) and collecting money for any tours and merchandise. Will need to pay attention to detail with all records. More detail is available [here](https://github.com/abercompsoc/official-docs/blob/master/Constitution%20(SocietiesSports%2016.17).pdf) under section 8.*
 
 The following wish to stand for this position: 
+
+#### Jack Webb
+"As an approachable, perspicacious and practical member of AberCompSoc with useful financial experience inside and outside of the society, I am the most suited candidate to continue as Treasurer. My current role within the committee beyond Treasurer also demonstrates my suitability."
 
 ## Secretary 
 *The Secretary is responsible for organising meetings, events, and all aspects to do with the
