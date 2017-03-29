@@ -1,14 +1,15 @@
+<!---
+To submit a proposition, use the following template
+Template:
+#### Bob (abc12)
+I would make a good president because...
+--->
+
 # Manifestos for positions to be held in 2017-18 
 If you would like to run for a position, please add your name, and a short reason
 why you think you would be good at this role, in the corresponding section listed below.
 
 Voting will take place on 31st March - add your name before then to be considered.
-
-<!---
-Example:
-#### Bob (abc12)
-I would make a good president because...
---->
 
 ## President
 *The President shall be the main contact point for external communications with
@@ -34,7 +35,7 @@ The following wish to stand for this position:
 
 The following wish to stand for this position: 
 
-#### Jack Webb
+#### Jack Webb (jaw84)
 "As an approachable, perspicacious and practical member of AberCompSoc with useful financial experience inside and outside of the society, I am the most suited candidate to continue as Treasurer. My current role within the committee beyond Treasurer also demonstrates my suitability."
 
 ## Secretary 
