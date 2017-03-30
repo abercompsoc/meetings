@@ -26,9 +26,12 @@ The following wish to stand for this position:
 "As president of CompSoc, I will assist in it growing to become a bigger and stronger society within the university: I have a lot of ideas that can help it stand out from the rest"
 
 ## Vice President
-*(Description to follow shortly)*
+*The Vice President is the second contact point for external communications with all external groups and individuals. This includes AberSU. When the President is unavailable they will be responsible for the smooth and effective running of the committee and the society/club, and shall be the final arbitrageur of disputes amongst the committee.*
 
 The following wish to stand for this position: 
+
+#### Claudio M Coppola (clc20)
+"I would like to carry on my role as Vice President at AberCompSoc as I’m a polite, organised and punctual individual who has had previous experience with the role in the society. AberCompSoc is a great society to be a part of as myself and other members have met new people, made new experiences and I would like to carry that on in the coming future by introducing new ideas to make it more interesting and joinable for others. I will assist the society in functioning by working alongside the committee and listening to any opinions given by current members."
 
 ## Treasurer
 *Responsible for keeping track of any money the society deals with, including union accounts (following all union rules), dealing with our sponsor(s) and collecting money for any tours and merchandise. Will need to pay attention to detail with all records. More detail is available [here](https://github.com/abercompsoc/official-docs/blob/master/Constitution%20(SocietiesSports%2016.17).pdf) under section 8.*
