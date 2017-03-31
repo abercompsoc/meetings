@@ -63,6 +63,10 @@ The following wish to stand for this position:
 
 (No description given at this time)
 
+#### Adam Neaves (adn2)
+
+(No description given at this time)
+
 ## Publicity Officer
 *This role is to publicise the society and society events. This includes using social media (eg facebook and twitter), taking photos at events, producing fliers/leaflets about the society (for freshers fairs etc). The general aim is to encourage people to join the society and society events.*
 
