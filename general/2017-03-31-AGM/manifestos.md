@@ -67,8 +67,12 @@ The following wish to stand for this position:
 
 (No description given at this time)
 
+#### Klaudia Olejnik (klo2) 
+
+I am a very cool person, vote for me. Being on almost all socials this year, I am approachable, sociable. I will make socials great again, and ensure we will bath in its glory.
+
 ## Publicity Officer
-*This role is to publicise the society and society events. This includes using social media (eg facebook and twitter), taking photos at events, producing fliers/leaflets about the society (for freshers fairs etc). The general aim is to encourage people to join the society and society events.*
+*This role is to publicise the society and society events. This using social media (eg facebook and twitter), taking photos at events, producing fliers/leaflets about the society (for freshers fairs etc). The general aim is to encourage people to join the society and society events.*
 
 The following wish to stand for this position: 
 
