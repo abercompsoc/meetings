@@ -26,7 +26,7 @@ The following wish to stand for this position:
 "As president of CompSoc, I will assist in it growing to become a bigger and stronger society within the university: I have a lot of ideas that can help it stand out from the rest"
 
 ## Vice President
-*The Vice President is the second contact point for external communications with all external groups and individuals. They must become thoroughly acquainted with the Presidents duties so that they can assist the President.  *
+*The Vice President must become thoroughly acquainted with the Presidents duties so that they can assist the President. They are the second contact point for external communications with all external groups and individuals.*
 
 The following wish to stand for this position: 
 
