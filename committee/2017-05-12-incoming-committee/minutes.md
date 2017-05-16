@@ -27,22 +27,22 @@ Nicholas Rostant (ndr2)
 ## Item 1 - Hoodies
 - Aim to have them ready for October/November time
 - Similar design to department hoodies but:
-* Thin & zipped
-* Black & white
-* Use of our logo
+    * Thin & zipped
+    * Black & white
+    * Use of our logo
 - Claudio (clc20) to investigate designs over summer
 
-## Item 4 - Freshers Week
+## Item 2 - Freshers Week
 - Suggestion for some sort of competition to encourage signups (e.g. Guess smarties in a jar and win a hoodie)
 - Promotional items such as stickers, pens, keychains a potential option.
 - Suggested that we offer sweets at the stand.
 - Samantha (sap21) to contact the BCS over promotional materials closer to the time.
 - Introduction in lectures at the beginning of term:
-* Give a small talk about ourselves and what we offer, trips, socials, etc.
-* Consider promotional materials.
-* Samantha (sap21) to email lecturers over timeslots and prepare a small presentation.
+    * Give a small talk about ourselves and what we offer, trips, socials, etc.
+    * Consider promotional materials.
+    * Samantha (sap21) to email lecturers over timeslots and prepare a small presentation.
 
-## Item 5 - Socials
+## Item 3 - Socials
 - Suggested route similar to current: Harry's(optional)->Beechings->Mill->Rummers->Castle
 - Suggested that Cambrian and Fountain be removed from the regular social route.
 - Social responsibility to cover 8pm-11pm.
@@ -53,7 +53,7 @@ Nicholas Rostant (ndr2)
 ### Sponsorships
 - Jack (jaw84) and Samantha (sap21) to contact the owner of The Castle over sponsorship.
 
-# Actions: <!--- Things people need to go away and do after the meeting --->
+# Actions:
 ## List of all actions:
 
 1. Jack (jaw84) and Samantha (sap21) - contact the owner of The Castle over sponsorship.
@@ -64,7 +64,7 @@ Nicholas Rostant (ndr2)
 
 ## Actions split by member:
 
-### All: <!--- what everyone needs to do (e.g. sign up to slack) --->
+### All:
 - None
 ### Samantha Pendleton (sap21):
 1. Contact the owner of The Castle over sponsorship.
