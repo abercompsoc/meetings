@@ -9,13 +9,14 @@ Samantha Pendleton (sap21)
 ##Actions Brought Forward:
 
 1. Election - Welfare Officer
-2. Events - "Lecturer Debates" (comedy) & Quiz night (charity)
+2. Homecoming (TeamAber Vs. Alumni): should we continue with this? 
 
 ##Agenda
 
 - Report on actions carried out by each member:
-  - Alex & Klaudia - sponsorship of Beechings, plus perhaps Harry's.
+  - Alex & Klaudia - sponsorship of Beechings.
   - Nick & Jack - Fosdem Updates; plus sponsorship from BCS and department
   
 - AOB
   - Christmas Meal
+  - Events - "Lecturer Debates" (comedy) & Quiz night (charity)
