@@ -9,8 +9,9 @@ Samantha Pendleton (sap21)
 ##Actions Brought Forward:
 
 1. Election - Welfare Officer (closed ballot)
-2. In the event of unfortunately "Reopen Nominations" Welfare Officer, should we assign VP as a temporary Welfare Officer until we call another election or change VP position to Welfare Officer? (closed ballot)
-3. Homecoming (TeamAber Vs. Alumni): should we continue with this? ("Show of Hands" vote)
+2. In the event of unfortunately "Reopen Nominations" Welfare Officer, should we assign a social secretary (one of two) as a temporary Welfare Officer until we call another election or change a committe position to Welfare Officer? (closed ballot)
+3. In event of "change another committee role to Welfare Officer": VP (Claudio), Social secretary 1 (Alex), or Social secretary 2 (Klaudia) - (closed ballot)
+4. Homecoming (TeamAber Vs. Alumni): should we continue with this? ("Show of Hands" vote)
 
 ##Agenda
 
