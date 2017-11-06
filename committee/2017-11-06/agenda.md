@@ -30,6 +30,10 @@ Nicholas Rostant (ndr2)
 - Hoodies update
   - Where are we at with getting financial stuff sorted
 
+- Better use of GitHub
+  - Whould be using issues to keep track of actions and to do's
+  - Confirm all committee are aware of at least the basic use of git and GitHub
+
 - Discuss need for general meeting
 
 - AOB
