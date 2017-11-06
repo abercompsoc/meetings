@@ -46,7 +46,7 @@ Nicholas Rostant (ndr2)
 ## Item 1 - Election of Welfare Officer 
 Union has required a mandatory position of Welfare Officer to look after member wellbeing.
 - Stephen Johnstone
-    - Only canidate nominated was Stephen Johnstone, seconded by Stephen Coiner
+    - Only candidate nominated was Stephen Johnstone, seconded by Stephen Coiner
     - Presented manifesto to those present
     - Elected with majority
 
@@ -63,14 +63,14 @@ Union has required a mandatory position of Welfare Officer to look after member 
 
 ## Item 4 - FOSDEM
 - Nick, Jack and Claudio to organise.
-- Positive experience at Condo Gardens last year could be an option for accomodation.
+- Positive experience at Condo Gardens last year could be an option for accommodation.
 - The union needs to be informed early
 - Target to finalise plans by December
-- Noted that the minibusses cannot be taken out of the country
+- Noted that the minibuses cannot be taken out of the country
 - Possible transport options: flights, trains, coaches or personal vehicles.
-- Mentioned that some members may want to travel sepearately
-- Google Form to be sent around to guage interest from members and assist in planning.
-- Disscussion to be held in #fosdem channel on Slack. 
+- Mentioned that some members may want to travel separately
+- Google Form to be sent around to gauge interest from members and assist in planning.
+- Discussion to be held in #fosdem channel on Slack. 
 
 ## AOB:
 
@@ -98,12 +98,12 @@ Union has required a mandatory position of Welfare Officer to look after member 
 
 1. Inform Union of election result (sap21)
 2. Follow up on Beechings sponsorship (klo2, alt38)
-3. Invesigate more potential sponsors (klo2, alt38)
+3. Investigate more potential sponsors (klo2, alt38)
 4. Preliminary organisation of FOSDEM trip (ndr2, jaw84, clc20)
-5. Guage interest in trip (ndr2, jaw84, clc20)
+5. Gauge interest in trip (ndr2, jaw84, clc20)
 6. Investigate Christmas meal (klo2, alt38)
 7. Follow up on hoodies when finances sorted (jaw84) 
-8. Guage interest in Hactoberfest event (ndr2)
+8. Gauge interest in Hactoberfest event (ndr2)
 
 ## Actions split by member:
 
@@ -114,25 +114,25 @@ Union has required a mandatory position of Welfare Officer to look after member 
 
 ### Klaudia (klo2)
 - Follow up on Beechings sponsorship
-- Invesigate more potential sponsors
+- Investigate more potential sponsors
 - Investigate Christmas meal
 
 ### Alex (alt38)
 - Follow up on Beechings sponsorship
-- Invesigate more potential sponsors
+- Investigate more potential sponsors
 - Investigate Christmas meal
 
 ### Jack (jaw84) 
 - Preliminary organisation of FOSDEM trip
-- Guage interest in trip
+- Gauge interest in trip
 - Follow up on hoodies when finances sorted
 
 ### Claudio (clc20) 
 - Preliminary organisation of FOSDEM trip
-- Guage interest in trip
+- Gauge interest in trip
 
 ### Nick (ndr2) 
 - Preliminary organisation of FOSDEM trip
-- Guage interest in trip
-- Guage intrest in Hacktoberfest event
+- Gauge interest in trip
+- Gauge interest in Hacktoberfest event
 
