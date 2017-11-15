@@ -1,6 +1,6 @@
-#Minutes
-##Author:
-Nicholas Rostant (ndr2)
+# Minutes
+## Author:
+- Nicholas Rostant (ndr2)
 
 ## AberCompSoc 
 ## General Meeting
