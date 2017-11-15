@@ -3,7 +3,7 @@
 Nicholas Rostant (ndr2)
 ## Aberystwyth Computer Science Society
 
-## Committee Meeting 1
+## Committee Meeting 2
 
 ## 2017-11-06
 
