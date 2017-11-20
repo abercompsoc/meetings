@@ -66,13 +66,13 @@
     - Changes to banner (e.g. change layout and colours)
   - Carried Forward
 
-#### tem 8 - Society Font Change:
+#### Item 8 - Society Font Change:
 
   - The Committee discussed changes to the font of the branding and concluded the following
     - Some change is needed as it is not openable on all systems
     - Should be carried forward as all society members should be given a choice with regards to image and branding
 
-#### tem 9 - Information about the Society:
+#### Item 9 - Information about the Society:
 
   - The Committee discussed the topic and deemed the following:
     - Much of the problems had are due to poor union website
