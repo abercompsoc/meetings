@@ -25,3 +25,6 @@ events, and for seeking sponsorship for the society.
 
 
 The following wish to stand for this position: 
+
+###Stephen Johnstone:
+"I am very good at organising events, I also believe I can add value to the society by being a social secretary as well as welfare officer. I have experience as a temporary social secretary as well."
