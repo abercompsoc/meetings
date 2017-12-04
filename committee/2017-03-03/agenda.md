@@ -1,13 +1,13 @@
-#Agenda
-##Authors:
-Jack Webb (jaw84)  
-Claudio M Coppola (clc20)
+# Agenda
+## Authors:
+- Jack Webb (jaw84)  
+- Claudio M Coppola (clc20)
 
-##Committee Meeting 2 
+## Committee Meeting 2 
 
-##2017-03-03
+## 2017-03-03
 
-##Agenda
+## Agenda
 
 - Discussion of changing committee channel to private
   - Method of privatisation (if decided)

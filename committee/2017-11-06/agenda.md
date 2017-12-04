@@ -1,11 +1,11 @@
-#Agenda
-##Authors:
-Nicholas Rostant (ndr2)
-##Committee Meeting 1
+# Agenda
+## Authors:
+- Nicholas Rostant (ndr2)
+## Committee Meeting 1
 
-##2017-11-06
+## 2017-11-06
 
-##Agenda
+## Agenda
 - Follow up on committee actions from previous general meeting
   - Beechings sponsorship
   - Union notified of election

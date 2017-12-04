@@ -1,13 +1,13 @@
-#Minutes
+# Minutes
 
-##Aberystwyth Computer Science Society
+## Aberystwyth Computer Science Society
 
-##Committee Meeting 1
+## Committee Meeting 1
 
-##05/11/15
+## 05/11/15
 
 
-####Present:
+#### Present:
 
 - Helen Harman(heh14) - President
 - Tom Morrison(thm17) - Treasurer
@@ -20,23 +20,23 @@
 
 
 
-###Apologies:
+### Apologies:
 
 - William Hogg(wih6)
 - James Bridgewater(jab42)
 
-####Item 1 - Review of minutes of last meeting:
+#### Item 1 - Review of minutes of last meeting:
 Minutes accepted as correct.
 
-####Item 2 - Report on actions carried out:
+#### Item 2 - Report on actions carried out:
 Daniel Clark(dac46) - GitHub Organisation has been created along with a meetings repository.
 Nicholas Rostant(ndr2) - New mailing lists set up for future communication.
 
-####Item 3 - Motion on the necessitiy of a Social Secretary:
+#### Item 3 - Motion on the necessitiy of a Social Secretary:
 Members indicated that the role of Social Secretary was not in line with the goals of the society and a vote was held. 
 It was decided by unanimous decision that the society is not in need of a Social Secretary.
 
-####Item 4 - Preliminary Discussion on Committee roles:
+#### Item 4 - Preliminary Discussion on Committee roles:
 Motion raised on the need for official secretarial role.
 Motion Passed with all present For and none Against.
 
@@ -44,7 +44,7 @@ Clarification of committee roles requested.
 - Liason / Outreach Officer (BCS) -> Communications with third parties, Including potential sponsors, excluding parties associated with other members.
 - Communications officer / Publicity Officer (BCS) -> Social media (facebook, twitter), distributing minutes, mailing list, and other internal communications, and publicity.
 
-####Item 5 - Events:
+#### Item 5 - Events:
 List of proposed society events discussed
 
 - Visit to Goggerdan (proposed Friday the 13th November 1:30) -> Colin
@@ -56,22 +56,22 @@ List of proposed society events discussed
 - Rob Clarke from HP (Louis as current contact)(Late this year)
 - Internal AberHackathon 
 
-####Item 6 - Projects:
+#### Item 6 - Projects:
 
-#####Internal
+##### Internal
 - Building of a society cloud server using donated hardware.
 
-#####External
+##### External
 - AberLab (Contact point Daniel Clark(dac46))
 - AberSailbot (Contact point Daniel Clark(dac46))
 - Sam Nicholls' Competitions (Contact point Sam Nicholls(msn))
 - Amateur Radio (Contact point Dave Price(dap))
 
-####AOB:
+#### AOB:
 
 Concerns over society's name, proposals to be collected and discussed at next meeting.
 
-###Actions:
+### Actions:
 
 * Committee - Fix Student Union Access Issues
 * Committee - Speak to Dave Price(dap) to discuss a possible link to the radio club
