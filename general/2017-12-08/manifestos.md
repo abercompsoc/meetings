@@ -17,14 +17,15 @@ this constitution.
 The following wish to stand for this position: 
 
 
-###########
+#### Claudio M Coppola
+"As I am the Vice President I do have experience on managing people and how the society operates. My plan for the remainder of this year is to hopefully take the society to the Robot Exhibition in Manchester and Bletchley Park. I will also ensure that AberCompSoc remains a functioning society until the next committee take over."
+
 
 ## Social Secretary
 *The Social Secretaries are responsible for organising and running social
 events, and for seeking sponsorship for the society.
 
-
 The following wish to stand for this position: 
 
-###Stephen Johnstone:
+#### Stephen Johnstone
 "I am very good at organising events, I also believe I can add value to the society by being a social secretary as well as welfare officer. I have experience as a temporary social secretary as well."
