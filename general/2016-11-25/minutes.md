@@ -1,19 +1,19 @@
-#Minutes
-##Author:
+# Minutes
+## Author:
 Agnieszka Jozwik (agj13)
 
-##AberCompSoc
+## AberCompSoc
 
-##General Meeting 1
+## General Meeting 1
 
-##2016-11-25
+## 2016-11-25
 
-##Links
+## Links
 - https://github.com/abercompsoc
 - https://groups.google.com/forum/#!forum/abercompsoc
 - https://www.facebook.com/groups/1583682251884620/
 
-##Present:
+## Present:
 - Lizzie
 - Aga
 - Sam
@@ -27,40 +27,40 @@ Agnieszka Jozwik (agj13)
 - Morgan
 - Claudio
 
-##Apologies:
+## Apologies:
 - 
 
-##Item 1 - Review minutes of last meeting
-
-- 
-
-##Item 2 - Report on actions carried out by each member
+## Item 1 - Review minutes of last meeting
 
 - 
 
-###Completed:
+## Item 2 - Report on actions carried out by each member
+
+- 
+
+### Completed:
 - Every member of a Society is now on Github and Slack
 - New vice president, publicity and communication officer (9th of December - election)
 
-###Carried Forward:
+### Carried Forward:
 - Contact sponsors (Sam)
 - Order stickers (Lizzie)
 - CompSoc bank account
 - Posters (Josh)
 - Leaflets, T-shirts and website
 
-##Item - ....
+## Item - ....
 - 
 
-##Item - ...
+## Item - ...
 - 
 
-##Item - ....
+## Item - ....
 
-##AOB:
+## AOB:
 
-#Actions:
-##List of all actions:
+# Actions:
+## List of all actions:
 
 1. Stickers
 2. Wizzair website
@@ -71,30 +71,30 @@ Agnieszka Jozwik (agj13)
 7. Manchester museum
 8. Meeting about Belgium 
 
-##Actions split by member:
+## Actions split by member:
 
-###All:
+### All:
 
-###Lizzie (eas12): 
+### Lizzie (eas12): 
 1. Stickers
 5. Slack Support channel
 
-###Aga ():
+### Aga ():
 2. Wizzair website
 
-###Aidan (), Nathan (), Josh ():
+### Aidan (), Nathan (), Josh ():
 3. Info about trip to Belgium
 
-###Nick Dimonaco ():
+### Nick Dimonaco ():
 4. Space on a comp sci department building hallway
 6. Photo
 
-##Actions to members not present
+## Actions to members not present
 
-###Tom Morrison ():
+### Tom Morrison ():
 7. Manchester museum
 
-###Nathan ():
+### Nathan ():
 3. Info about trip to Belgium
 8. Meeting about Belgium 
 
