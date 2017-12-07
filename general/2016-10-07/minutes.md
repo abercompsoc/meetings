@@ -1,19 +1,19 @@
-#Minutes
-##Author:
+# Minutes
+## Author:
 Lizzie (eas12)
 
-##AberCompSoc
+## AberCompSoc
 
-##General Meeting 1
+## General Meeting 1
 
-##2016-10-07
+## 2016-10-07
 
-##Links
+## Links
 - https://github.com/abercompsoc
 - https://groups.google.com/forum/#!forum/abercompsoc
 - https://www.facebook.com/groups/1583682251884620/
 
-##Present:
+## Present:
 - Lizzie Stone (eas12)
 - Cloud Coppola (clc20)
 - Aidan Hogden (aih16)
@@ -27,22 +27,22 @@ Lizzie (eas12)
 - Alexander Westermann (alw29)
 - Evan Almaas (eva4)
 
-##Apologies:
+## Apologies:
 - Aga (agj14)
 
-##Item 1 - Review minutes of last meeting
+## Item 1 - Review minutes of last meeting
 
-##Item 2 - Report on actions carried out by each member
+## Item 2 - Report on actions carried out by each member
 
-###Completed:
+### Completed:
 
-###Carried Forward:
+### Carried Forward:
 
-##Item - Election
+## Item - Election
 - Will happen in 3 weeks time (2016-10-28)
 - Positions open are Treasurer and Social Secretary (x2)
 
-##Item - Events/Projects/Trips
+## Item - Events/Projects/Trips
 - Events:
     - Git learning session
     - talks and debates
@@ -59,16 +59,16 @@ Lizzie (eas12)
 - Projects:
 
 
-##Item - Socials
+## Item - Socials
 - Food socials will be organised
 - Socials will officially end at midnight
 - Cambrian was voted to remain as the starting pub
 
-##Item - Merchandise 
+## Item - Merchandise 
 - Both Hoodies and t-shirts are wanted
 - Stickers are wanted
 
-##Sponsorship
+## Sponsorship
 - Other sponsors are wanted. Ideas are:
     - Cambrian
     - Beechings
@@ -76,11 +76,11 @@ Lizzie (eas12)
     - Hexus/Scan
     - Intel/AMD
 
-##AOB:
+## AOB:
 -
 
-#Actions:
-##List of all actions:
+# Actions:
+## List of all actions:
 
 1. lizzie - notify union of election
 2. lizzie - order stickers
@@ -90,28 +90,28 @@ Lizzie (eas12)
 6. Committee - start organising events (venue, money etc)
 7. All - join slack (abercompsoc.slack.com) and github (github.com/abercompsoc)
 
-##Actions split by member:
+## Actions split by member:
 
-###All:
+### All:
 7. join slack (abercompsoc.slack.com) and github (github.com/abercompsoc)
 
-###Committee:
+### Committee:
 6. start organising events (venue, money etc) 
 
-###Lizzie:
+### Lizzie:
 1. notify union of election 
 2. order stickers
 
-###SamC:
+### SamC:
 3. Contact sponsors 
 
-###SamC & Paul:
+### SamC & Paul:
 4. Organise food socials - find ideal places
 
-###TomM:
+### TomM:
 5. Find out more about Manchester Museum
 
-##Actions to members not present
+## Actions to members not present
 
 
 

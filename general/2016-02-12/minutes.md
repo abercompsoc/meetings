@@ -1,19 +1,19 @@
-#Minutes
-##Author:
+# Minutes
+## Author:
 James Bridgewater (jab42)
 
-##AberCompSoc
+## AberCompSoc
 
-##General Meeting 3
+## General Meeting 3
 
-##2016-02-12
+## 2016-02-12
 
-##Links
+## Links
 - https://github.com/abercompsoc
 - https://groups.google.com/forum/#!forum/abercompsoc
 - https://www.facebook.com/groups/1583682251884620/
 
-##Present:
+## Present:
 - James Baker (jab67)
 - James Bridgewater (jab42)
 - Daniel Clark (dac46)
@@ -21,16 +21,16 @@ James Bridgewater (jab42)
 - Josh Smith (jos67)
 - Louis Taylor (lot15)
 
-##Apologies:
+## Apologies:
 - Douglas Gardner (dog2)
 - Nicholas Dimonaco (nid16)
 - Sam Nicholls (msn)
 
-##Item 1 - Review minutes of last meeting
+## Item 1 - Review minutes of last meeting
 
 - Nothing great to discuss
 
-##Item 2 - Report on actions carried out by each member
+## Item 2 - Report on actions carried out by each member
 
 - Hackerthon / AberLab ongoing, meeting coming up at Old College
 - FOSDEM done
@@ -58,19 +58,19 @@ James Bridgewater (jab42)
 - Open source drop in event popular, further developement actioned
 - Discussion of different name for this society
 
-###Completed:
+### Completed:
 - Refreshers organisation done
 	- Action required regardin addition of new members to appropriate lists
 - Facebook pinned post problem solved, and Louis added as admin on page
 
-###Carried Forward:
+### Carried Forward:
 - Name discussion (capitalisation or no, and BCS inclusion issues)
 - National library talks
 - Sailbot use of minibus
 - Speak to Dan Clark
 - Welsh translation of emails/advertising IS mailing list
 
-##Item - Discussion of election
+## Item - Discussion of election
 - Need to allow RAN
 - Need atleast 2 weeks after announcements of candidate before vote
 - Look up the procedure from the SU
@@ -85,7 +85,7 @@ James Bridgewater (jab42)
 - Discussion as to status of who's standing 
 - At least 2 weeks needed after people nominate themselves (stand)
 
-##Item - Discuss changes to the facebook page
+## Item - Discuss changes to the facebook page
 - Who can post?
 	- Page public, so anyone can post
 - More admins?
@@ -97,12 +97,12 @@ James Bridgewater (jab42)
 	- Advertisement of events will be required elsewhere
 		- e.g. Posters and other pages
 
-##Item - BCS position clarified as sponsorish
+## Item - BCS position clarified as sponsorish
 
-##AOB:
+## AOB:
 
-#Actions:
-##List of all actions:
+# Actions:
+## List of all actions:
 
 1. Tom: Update roles spec, add open actions into issues for Secretary - #14
 2. James Bridgewater: All open actions to be raised as issues on Github
@@ -131,28 +131,28 @@ James Bridgewater (jab42)
 24. Louis: Stick stance in correct position in documentation of soc - #13
 25. Dan: Speak to Tom Cartwright to see if he can be a translator - #4
 
-##Actions split by member:
+## Actions split by member:
 
-###All:
+### All:
 14. Work out rough time frame for events
 22. Number the actions in minutes
 
-###James Baker: 
+### James Baker: 
 11. ASAP get election procedure details from SU
 
-###James Bridgewater:
+### James Bridgewater:
 2. All open actions to be raised as issues on Github
 19. Look up Rasberry Jam times, post on mailing list..
 
-###Dan:
+### Dan:
 16. Organise Hackerthon
 25. Speak to Tom Cartwright to see if he can be a translator
 
-###Dan and Louis:
+### Dan and Louis:
 20. Finish document for dap specifying specifics of servers, needs to be finished and given to dap
 , Tom will need document if BCS money required
 
-###Louis:
+### Louis:
 
 3. Create template for agenda and minutes
 5. Send new members list to Nick
@@ -164,7 +164,7 @@ James Bridgewater (jab42)
 24. Stick stance in correct position in documentation of soc
 JOINT ACTION with Daniel, listed below appropriate heading
 
-###Tom:
+### Tom:
 
 1. Update roles spec, add open actions into issues for Secretary 
 7. Speak to Michael about logo design
@@ -176,8 +176,8 @@ JOINT ACTION with Daniel, listed below appropriate heading
 23. Get official stance on welsh translation of emails, IS mailing list, we may need to use 
 student union translation
 
-##Actions to members not present
+## Actions to members not present
 
-###Nick:
+### Nick:
 4. Add new members to broadcast mailing list
 12. Announce date for election on public email, needs atleast 2 week notice

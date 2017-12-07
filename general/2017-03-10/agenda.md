@@ -1,15 +1,15 @@
-#Agenda
-##Author:
+# Agenda
+## Author:
 Lizzie Stone (eas12)  
 Claudio Coppola (clc20)  
 
-##General Meeting 3 
+## General Meeting 3 
 
-##2017-03-10
+## 2017-03-10
 
-##Actions Brought Forward
+## Actions Brought Forward
 
-##Agenda
+## Agenda
 
 - Review minutes of last meeting <!--- Please fill out from last meetings minutes--->
   - Item 1 - Discussion of changing committee channel to private:

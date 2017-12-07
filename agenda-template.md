@@ -1,14 +1,14 @@
-#Agenda
-##Author:
+# Agenda
+## Author:
 Person (abc12)
 
-##General Meeting 3 
+## General Meeting 3 
 
-##YYYY-MM-DD
+## YYYY-MM-DD
 
-##Actions Brought Forward
+## Actions Brought Forward
 
-##Agenda
+## Agenda
 
 - Review minutes of last meeting
 - Report on actions carried out by each member:

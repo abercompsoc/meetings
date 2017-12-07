@@ -1,16 +1,16 @@
-#Agenda
-##Author:
+# Agenda
+## Author:
 Lizzie Stone (eas12)
 
-##General Meeting 3 
+## General Meeting 3 
 
-##2017-01-10
+## 2017-01-10
 
-##Actions Brought Forward
+## Actions Brought Forward
 
 1. ...
 
-##Agenda
+## Agenda
 
 - Review minutes of last meeting
 - Report on actions carried out by each member:

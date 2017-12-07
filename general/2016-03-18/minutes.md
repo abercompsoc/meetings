@@ -1,20 +1,19 @@
-
-#Minutes
-##Author:
+# Minutes
+## Author:
 Nicholas Rostant (ndr2)
 
-##AberCompSoc
+## AberCompSoc
 
-##General Meeting 4
+## General Meeting 4
 
-##2016-03-18
+## 2016-03-18
 
-##Links
+## Links
 - https://github.com/abercompsoc
 - https://groups.google.com/forum/#!forum/abercompsoc
 - https://www.facebook.com/groups/1583682251884620/
 
-##Present:
+## Present:
 - Lizzie Stone (eas12)
 - William Hogg (wih6)
 - Helen Harman (heh14)
@@ -25,18 +24,18 @@ Nicholas Rostant (ndr2)
 - Nathan Hughes (nah26)
 - Nicholas Dimonaco (nid16)
 
-##Apologies:
+## Apologies:
 
-##Item 1: Actions reviewed
+## Item 1: Actions reviewed
 Actions reviewed and updated
 
-##Item 2: Date of elections
+## Item 2: Date of elections
 Elections to be held _15th of April, 2016_ in Brynamlwg
 
-##AOB:
+## AOB:
 
-#Actions:
-##List of all actions:
+# Actions:
+## List of all actions:
 
 1. Tom: Update roles spec, add open actions into issues for Secretary 
 2. James Bridgewater: All open actions to be raised as issues on Github
@@ -60,25 +59,25 @@ Elections to be held _15th of April, 2016_ in Brynamlwg
 20. Tom/Nick D: Organise some debates between members of staff
 21. Nick R: Speak to Jack Jones about debates 
 
-##Actions split by member:
+## Actions split by member:
 
-###All:
+### All:
 8. Work out rough time frame for events
 
-###James Bridgewater:
+### James Bridgewater:
 2. All open actions to be raised as issues on Github
 11. Look up Rasberry Jam times, post on mailing list..
 
-###Dan:
+### Dan:
 16. Speak to Tom Cartwright to see if he can be a translator
 
-###Dan and Nathan:
+### Dan and Nathan:
 10. Organise Hackathon
 
-###Dan and Louis:
+### Dan and Louis:
 12. Finish document for dap specifying specifics of servers, needs to be finished and given to dap, Tom will need document if BCS money required
 
-###Louis:
+### Louis:
 
 3. Create template for agenda and minutes
 9. Rope together some open source people for an event, within a couple of months
@@ -86,7 +85,7 @@ Elections to be held _15th of April, 2016_ in Brynamlwg
 15. Stick stance in correct position in documentation of soc
 JOINT ACTION with Daniel, listed below appropriate heading
 
-###Tom:
+### Tom:
 
 1. Update roles spec, add open actions into issues for Secretary 
 4. Speak to Michael about logo design
@@ -97,10 +96,10 @@ JOINT ACTION with Daniel, listed below appropriate heading
 19. Tom: Email Nick D about booking room for elections
 20. Organise some debates between members of staff
 
-###Nick Dimonaco and Tom:
+### Nick Dimonaco and Tom:
 20. Organise some debates between members of staff
 
-###Nick Rostant:
+### Nick Rostant:
 17. Keep mailing list up to date
 21. Speak to Jack Jones about debates 
 

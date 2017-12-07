@@ -1,18 +1,18 @@
-#Minutes
+# Minutes
 
-##Aberystwyth Computer Science Society
+## Aberystwyth Computer Science Society
 
-##General Meeting 2
+## General Meeting 2
 
-##2015-11-27
+## 2015-11-27
 
-##Links
+## Links
 - https://github.com/abercompsoc
 - https://groups.google.com/forum/#!forum/abercompsoc
 - https://www.facebook.com/groups/1583682251884620/
 
 
-##Present:
+## Present:
 
 - James Baker (jab67)
 - Nicholas Rostant (ndr2)
@@ -28,15 +28,15 @@
 - ELizabeth Stone (eas12)
 - Ben Bancroft (bnb2)
 
-##Apologies:
+## Apologies:
 
 
-##Item 1 - Review minutes of last meeting:
+## Item 1 - Review minutes of last meeting:
 Minutes accepted as correct.
 
-##Item 2 - Report on actions carried out by each member, which were specified in previous meetings (Group Meeting 1 - 2015-10-27 and Committee Meeting 1 - 2015-11-06) :
+## Item 2 - Report on actions carried out by each member, which were specified in previous meetings (Group Meeting 1 - 2015-10-27 and Committee Meeting 1 - 2015-11-06) :
 
-###Completed:
+### Completed:
 
 - Committee - Speak to Daniel Clark (dac46), Louis Taylor (lot15) and Colin Sauze (cos) to discuss a possible link to AberSailbot - Organise a meeting
 - Committee - Organise a committee meeting for Friday November 6th at 6:15pm
@@ -61,7 +61,7 @@ Minutes accepted as correct.
 - Members - Join the mailing list by emailing ndr2 with the subject "Please add me to the CompSciSoc mailing list!"
 - Members - See heh14 for any questions about the society
 
-###Carried Forward:
+### Carried Forward:
 
 - Committee - Speak to Daniel Clark(dac46) and Colin Sauze(cos) to discuss a possible link to AberLab, the Aberystywth Hackerspace
 - Committee - Speak to Richard Shipman(rcs) to discuss the potential trip to FOSDEM
@@ -70,17 +70,17 @@ Minutes accepted as correct.
 - nid16, Committee - Organise a stand for the Re-Freshers fair
 - Committee - Speak to Dave Price(dap) to discuss a possible link to the radio club
 
-##Item 4 - Find out who wants to go to the Teach First pub quiz on Monday 30th at 6pm in the SU main room. Free pizza and prizes! - Costs 50p per person:
+## Item 4 - Find out who wants to go to the Teach First pub quiz on Monday 30th at 6pm in the SU main room. Free pizza and prizes! - Costs 50p per person:
 Daniel Clark (dac46)
 Nicholas Rostant (ndr2)
 James Baker (jab67)
 
 
-##Item 5 -Discuss state of official documents:
+## Item 5 -Discuss state of official documents:
 
 Contitution and other official documents need to be made available for all members to have access to, decided that the GitHub repositiory is the most appropriate place.
 
-##Item 6 - Discuss state of communication:
+## Item 6 - Discuss state of communication:
 
 - mailing lists: do we need an -announce mailing list and a committee mailing list. Reminder that the main mailing list is open to be posted to by anyone, maybe publish a how-to?
 - irc: it exists and we should use it
@@ -94,42 +94,42 @@ Contitution and other official documents need to be made available for all membe
 - Union may require Welsh to be available for announcments so a form of translation must be found.
 - IRC channel avaiable at #abercompsoc on freenode.
 
-##Item 7 - Summary of events held by those involved:
+## Item 7 - Summary of events held by those involved:
 
 All events went well, everyone happy.
 
 
-##Item 8 - Discuss state of "Committee" members:
+## Item 8 - Discuss state of "Committee" members:
 
 - Detemined that only the three Union positions (President, Treasurer, and Secretary) plus a Vice Secretary needed.
 - By-elections necessary to fill positions.
 - By-elections to be held in early February.
 
-##Item 9 - Discuss taking over the old robotics society bank account:
+## Item 9 - Discuss taking over the old robotics society bank account:
 
 - Old robotics society dissolved, bank account still present.
 - As founding member Helen may have rights to take it over.
 - Union to be approached over this prospect.
 
-##Item 10 - Talk about progress on society cloud server:
+## Item 10 - Talk about progress on society cloud server:
 
 - Louis talked to dap, need spec in terms of network access, power, physical access etc.
 - Hardware aquired, potential for more.
 - Anyone interested should get involved with the GitHub.
 - https://github.com/abercompsoc/cloud-spec
 
-##Item 11 - Aber Sailbot minibus usage:
+## Item 11 - Aber Sailbot minibus usage:
 
 - Aber Sailbot request to have access to Union minibusses through the society.
 - Union to be contacted on the requirements of this (do all people in the bus need to be in the society?)
 
-##AOB:
+## AOB:
 
 - Meetings to be held on first Friday of each month, starting Feburary 5th.
 - Refreshers fair to be discussed over Google group.
 - Society name to be abercompsoc (Capitalisation still a point of contention)
 
-#Actions:
+# Actions:
 
 - dac46 - Take one of the committee members to the union to discuss access to society page.
 - dac46 - Post official documents (such as the Constitution) on the GitHub.
