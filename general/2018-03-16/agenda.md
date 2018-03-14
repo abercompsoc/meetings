@@ -1,6 +1,6 @@
 # Agenda
 
-### Author:
+## Author:
 
 Nicholas Rostant (ndr2)
 
@@ -43,7 +43,8 @@ Nicholas Rostant (ndr2)
     - Discussion to be held in #fosdem channel on Slack. 
 
 - New
-  - Election - Social Secretaries
+  - By-Election - Social Secretaries
+  - By-Election - Welfare Officer
   - Disscussion of Social Secretary role
   - Update on current activities
   - Prepare for AGM
