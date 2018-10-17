@@ -16,7 +16,8 @@ To run for a position, please use the following format
 
 ### Secretary
 
-No Nominee yet
+#### Robert Jolly
+"I am a hardworking, driven individuual with a passion for computing. I've enjoyed engaging with CompSoc events in the past and would love to play a part in the committee of the society"
 
 ---
 ### Treasurer
