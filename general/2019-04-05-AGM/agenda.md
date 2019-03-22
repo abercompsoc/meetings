@@ -20,4 +20,4 @@ N/A
   - Treasurer 
   - Secretary
   
-  - Summary of intentions for next year
+- Summary of intentions for next year
