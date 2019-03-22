@@ -49,7 +49,7 @@ duties stated elsewhere in the constitution.*
 
 ---
 ### Treasurer
-*Responsible for keeping track of any money the society deals with, including union accounts (following all union rules), dealing with our sponsor(s) and collecting money for any tours and merchandise. Will need to pay attention to detail with all records. More detail is available [here](https://github.com/abercompsoc/official-docs/blob/master/Constitution%20(SocietiesSports%2016.17).pdf) under section 8.*
+*Responsible for keeping track of any money the society deals with, including union accounts (following all union rules), dealing with our sponsor(s) and collecting money for any tours and merchandise. Will need to pay attention to detail with all records.*
 
 #### Your Name
 "Your Manifesto"
