@@ -4,7 +4,7 @@ Robert Jolly (raj24)
 
 ## AGM 1 - 2019
 
-## 2019-04-05
+## 2019-05-02
 
 ## Actions Brought Forward
 
@@ -21,3 +21,4 @@ N/A
   - Secretary
   
 - Summary of intentions for next year
+
