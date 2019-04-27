@@ -26,8 +26,9 @@ committee and other members to operate in. They must ensure the general health a
 the society/club is in accordance with the views of its members. They must carry out duties that are
 listed elsewhere in the constitution.*
 
-#### Your Name
-"Your Manifesto"
+#### Leena Sarah Farhat
+
+"Manifesto: Having been been impressed with the running of the society this year, especially with the logistics for the trip to FOSDEM, I would love to take on this role. If elected, I intend to work with the current president on organizing FOSDEM. I also want to organize some more events (hopefully a hackathon and something for Varisty because we could actually beat Bangor at something). For those who don't know me, I am currently a 2nd year Computer Science student and next year will be my final year. I am known to be kind and approachable so please ask me questions! I cannot wait to see next year's committee."
 
 ---
 
