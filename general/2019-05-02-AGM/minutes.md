@@ -24,7 +24,7 @@ Aaron Walker [aaw13]
 - Leena Farhat [lsf2]
 - Torrin Wilkins [tow27]
 - James Britton [jhb15]
-- Annie [ais]
+- Angharad Shaw [ais]
 
 ## Apologies:
 
